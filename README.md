@@ -15,6 +15,8 @@ Here you can get a simple and best feature of dsicord modmail dsicord boy made w
                                       3 in line number - 6 Fill your staff or support role Like ("STAFF_ROLE": "<@&role_id_here>",
                                       4 in line number - 8 Fill your private category name same to same where you want to make a create like ( "PRIVATE_CATEGORY_NAME": "help-tickets") Best way to copy paste category name!
                                       
+                              3 Run the program (this may take a while to install dev dependencies and package[if you don't have already])
+                                      
                                       
                          
                
